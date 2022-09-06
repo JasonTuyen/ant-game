@@ -23,4 +23,4 @@ Coming soon!
 
 ## Future Development
 
-* I'd like to make additional improvement or redesign to this project someday. It's been a while since this class and I'd like to see how much I improved since then.
+* I'd like to make additional improvements or redesign this project someday. It's been a while since this class and I'd like to see how much I improved since then.
