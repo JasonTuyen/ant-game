@@ -3,13 +3,13 @@ My source code for Sacramento State's Object Oriented Programming course, CSC 13
 
 ## Disclaimer
 
-* CSC 133 is Sacramento State's Object Oriented Programming course where students learn about OOP, design patterns, user interfaces and more
-* Project idea belongs to Sacramento State's Computer Science Department
+* CSC 133 is Sacramento State's Object Oriented Programming course where students learn to apply OOP principles, differnt design patterns, user interfaces and more
+* Project idea belongs to Sacramento State's Computer Science Department, but code was implemented and written by Jason Tuyen
 
 ## Built With
 
 * Java
-* [Codename One](https://www.codenameone.com/)
+* [Codename One](https://www.codenameone.com/) for cross-platform developmenmt
 * [Eclipse IDE](https://www.eclipse.org/downloads/) 
 
 ## Demo and How-To-Play
